@@ -6,6 +6,9 @@
 <img src="https://img.shields.io/badge/GUI-CustomTkinter-green">
 <img src="https://img.shields.io/badge/YouTube-Mini_Player🎵-red">
 
+<img width="990" height="611" alt="image" src="https://github.com/user-attachments/assets/cfa970e4-e377-4844-8a9a-8c6dcf84a578" />
+
+
 <h2>✨ Features</h2>
 <ul>
   <li>⚡ <b>Handles massive files</b> (futureproof chunking for GBs of combos)</li>
